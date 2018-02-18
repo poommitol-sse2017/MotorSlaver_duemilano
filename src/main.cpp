@@ -9,7 +9,7 @@ bool turning = false;
 bool last_turning = false;
 String inputString = "";     // a String to hold incoming data
 bool stringComplete = false; // whether the string is complete
-float gg;
+float gg2;
 float speedRPM[4] = {0, 0, 0, 0};
 long time = 0;
 int speed = 0;
